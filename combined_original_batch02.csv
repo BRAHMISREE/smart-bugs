@@ -1,0 +1,191 @@
+Contract,Reentrancy,Integer,Access,TOD,DoS,Delegatecall,Unchecked Call,Timestamp,Frozen Ether
+contracts/contract_001.sol,-,-,-,-,-,-,-,-,-
+contracts/contract_002.sol,-,Osiris,Mythril,Mythril,-,-,-,"Mythril, Slither",-
+contracts/contract_003.sol,-,-,-,-,-,-,-,-,Slither
+contracts/contract_004.sol,-,-,-,-,-,-,-,Slither,-
+contracts/contract_005.sol,Slither,Osiris,-,-,-,-,-,-,-
+contracts/contract_006.sol,"Mythril, Slither",Oyente,-,Mythril,-,-,-,"Mythril, Slither",-
+contracts/contract_007.sol,-,Oyente,Mythril,Mythril,-,-,-,-,-
+contracts/contract_008.sol,-,-,-,-,-,-,-,"Mythril, Oyente, Slither",Oyente
+contracts/contract_009.sol,"Mythril, Slither",-,-,-,-,-,-,Mythril,-
+contracts/contract_010.sol,"Mythril, Slither",-,Mythril,Mythril,-,-,-,-,-
+contracts/contract_011.sol,-,Oyente,Mythril,Mythril,-,-,-,-,-
+contracts/contract_012.sol,-,-,Mythril,-,-,-,-,-,-
+contracts/contract_013.sol,Slither,Osiris,-,-,-,-,-,-,-
+contracts/contract_014.sol,"Mythril, Slither",Oyente,-,Mythril,-,-,-,-,-
+contracts/contract_015.sol,Slither,-,-,-,-,-,-,"Mythril, Slither",-
+contracts/contract_016.sol,-,Oyente,-,-,-,-,-,-,-
+contracts/contract_017.sol,-,Osiris,-,-,-,-,-,-,-
+contracts/contract_018.sol,"Mythril, Slither",-,-,-,-,-,-,Mythril,-
+contracts/contract_019.sol,"Mythril, Osiris, Slither",Oyente,-,-,-,-,-,-,-
+contracts/contract_020.sol,Slither,Mythril,-,-,-,-,-,"Mythril, Slither",-
+contracts/contract_021.sol,"Mythril, Slither",Oyente,-,-,-,-,-,-,-
+contracts/contract_022.sol,Mythril,"Osiris, Oyente",-,-,-,-,-,-,-
+contracts/contract_023.sol,Slither,-,Mythril,-,-,-,-,-,-
+contracts/contract_024.sol,"Mythril, Slither",-,-,-,-,-,-,-,-
+contracts/contract_025.sol,Slither,-,-,Mythril,-,-,Slither,"Mythril, Slither",-
+contracts/contract_027.sol,Slither,"Osiris, Oyente",-,Mythril,-,-,-,Mythril,-
+contracts/contract_028.sol,Slither,"Osiris, Oyente",-,-,-,-,Slither,-,-
+contracts/contract_030.sol,-,"Osiris, Oyente",-,Mythril,-,-,-,"Mythril, Slither",-
+contracts/contract_031.sol,Slither,-,-,-,-,-,-,-,Slither
+contracts/contract_032.sol,"Mythril, Osiris, Slither",Oyente,-,-,-,-,-,-,-
+contracts/contract_033.sol,-,-,-,-,-,-,-,Mythril,-
+contracts/contract_034.sol,"Mythril, Osiris, Slither","Mythril, Osiris",Mythril,Mythril,-,-,Slither,-,-
+contracts/contract_035.sol,Slither,Osiris,Mythril,Mythril,-,-,-,-,-
+contracts/contract_036.sol,"Mythril, Slither","Osiris, Oyente",Mythril,-,-,-,Slither,"Mythril, Slither",-
+contracts/contract_037.sol,"Mythril, Slither","Mythril, Osiris",-,Mythril,-,-,-,"Mythril, Oyente",-
+contracts/contract_038.sol,Slither,"Osiris, Oyente",-,-,-,-,-,"Mythril, Slither",-
+contracts/contract_039.sol,"Osiris, Slither","Osiris, Oyente",Mythril,Mythril,-,-,Slither,-,-
+contracts/contract_040.sol,"Mythril, Slither",Osiris,Mythril,-,-,-,-,-,-
+contracts/contract_041.sol,-,"Osiris, Oyente",Mythril,Mythril,-,-,Slither,-,-
+contracts/contract_042.sol,"Mythril, Slither","Osiris, Oyente",-,-,-,-,-,Mythril,Slither
+contracts/contract_043.sol,Slither,"Osiris, Oyente",Mythril,-,-,-,-,"Mythril, Slither",-
+contracts/contract_044.sol,"Mythril, Slither",Osiris,Mythril,-,-,-,-,-,-
+contracts/contract_045.sol,-,-,-,-,-,-,Slither,-,-
+contracts/contract_046.sol,"Mythril, Slither",-,-,-,-,-,-,Mythril,-
+contracts/contract_047.sol,Slither,"Osiris, Oyente",-,-,-,-,-,"Mythril, Slither",-
+contracts/contract_048.sol,Slither,"Osiris, Oyente",-,-,-,-,-,-,-
+contracts/contract_049.sol,Mythril,Oyente,-,-,-,-,-,-,-
+contracts/contract_050.sol,"Mythril, Slither",-,Mythril,Mythril,-,-,-,-,-
+contracts/contract_051.sol,Slither,-,-,-,-,-,Slither,"Mythril, Slither",-
+contracts/contract_052.sol,-,-,Mythril,-,-,-,Slither,-,-
+contracts/contract_053.sol,Slither,-,-,-,-,-,-,-,-
+contracts/contract_054.sol,"Mythril, Slither","Mythril, Oyente",Mythril,Mythril,-,-,-,-,-
+contracts/contract_055.sol,-,-,-,-,-,-,-,-,Slither
+contracts/contract_056.sol,-,Oyente,-,-,-,-,-,-,-
+contracts/contract_057.sol,-,"Osiris, Oyente",-,-,-,-,-,-,-
+contracts/contract_058.sol,-,Oyente,-,Mythril,-,-,-,-,-
+contracts/contract_059.sol,-,"Osiris, Oyente",-,-,-,-,-,Slither,-
+contracts/contract_060.sol,"Mythril, Slither","Osiris, Oyente",-,-,-,-,-,"Mythril, Slither",-
+contracts/contract_061.sol,-,-,-,-,-,-,-,-,-
+contracts/contract_062.sol,Slither,Oyente,-,-,-,-,Slither,"Mythril, Slither",-
+contracts/contract_063.sol,"Mythril, Slither",Oyente,-,-,-,-,-,-,-
+contracts/contract_064.sol,-,-,-,-,-,Mythril,-,-,-
+contracts/contract_065.sol,Osiris,-,-,-,-,-,-,-,Slither
+contracts/contract_066.sol,Slither,Oyente,Mythril,-,-,-,-,"Mythril, Slither",-
+contracts/contract_067.sol,"Mythril, Osiris, Slither","Mythril, Osiris",Mythril,Mythril,-,-,Slither,-,-
+contracts/contract_068.sol,"Mythril, Slither","Osiris, Oyente",Mythril,Mythril,-,-,-,Slither,-
+contracts/contract_069.sol,"Mythril, Slither","Mythril, Oyente",Mythril,Mythril,-,-,-,-,-
+contracts/contract_070.sol,Slither,"Osiris, Oyente",Mythril,Mythril,-,-,-,-,-
+contracts/contract_071.sol,Slither,-,-,-,-,-,-,"Mythril, Slither",Mythril
+contracts/contract_072.sol,"Mythril, Osiris, Slither",Oyente,-,-,-,-,-,Mythril,-
+contracts/contract_073.sol,Mythril,"Osiris, Oyente",-,-,-,-,Mythril,-,Slither
+contracts/contract_074.sol,Slither,Oyente,-,-,-,-,-,"Mythril, Slither",-
+contracts/contract_075.sol,-,Osiris,-,Mythril,-,-,-,"Mythril, Slither",-
+contracts/contract_076.sol,-,Oyente,-,-,-,-,-,-,-
+contracts/contract_077.sol,"Mythril, Slither",-,Mythril,-,-,-,-,"Mythril, Slither",-
+contracts/contract_078.sol,-,"Osiris, Oyente",-,-,-,-,"Mythril, Slither",-,-
+contracts/contract_079.sol,Slither,-,-,-,-,-,Slither,Slither,-
+contracts/contract_080.sol,Slither,Osiris,-,-,Osiris,-,Slither,"Mythril, Slither",-
+contracts/contract_081.sol,Mythril,"Mythril, Osiris, Oyente",Mythril,Mythril,-,-,-,-,-
+contracts/contract_082.sol,"Mythril, Slither","Mythril, Osiris, Oyente",Mythril,-,-,-,-,Mythril,-
+contracts/contract_083.sol,-,-,-,-,-,-,-,-,-
+contracts/contract_084.sol,Slither,Osiris,-,-,Osiris,-,-,Slither,-
+contracts/contract_085.sol,"Mythril, Slither","Mythril, Osiris, Oyente",-,-,-,-,-,Mythril,-
+contracts/contract_086.sol,"Mythril, Slither","Mythril, Osiris",-,Mythril,-,-,-,"Mythril, Oyente",-
+contracts/contract_087.sol,-,Osiris,Mythril,Mythril,-,-,-,-,-
+contracts/contract_088.sol,-,-,-,-,-,-,Slither,-,-
+contracts/contract_089.sol,"Mythril, Slither","Mythril, Osiris, Oyente",Mythril,Mythril,-,-,Slither,"Mythril, Oyente, Slither",-
+contracts/contract_090.sol,-,Oyente,Mythril,Mythril,-,-,-,"Mythril, Slither",-
+contracts/contract_091.sol,Slither,"Osiris, Oyente",-,-,-,-,Slither,"Mythril, Oyente, Slither",-
+contracts/contract_092.sol,"Mythril, Osiris, Slither",Oyente,-,-,-,-,-,-,-
+contracts/contract_093.sol,Slither,Oyente,Mythril,Mythril,-,-,-,-,-
+contracts/contract_094.sol,-,-,-,-,-,-,-,-,-
+contracts/contract_095.sol,"Mythril, Slither","Osiris, Oyente",-,Mythril,-,-,-,Mythril,-
+contracts/contract_096.sol,Slither,"Osiris, Oyente",-,Mythril,-,-,-,"Mythril, Oyente, Slither",-
+contracts/contract_098.sol,"Mythril, Slither",-,-,-,-,-,-,"Mythril, Slither",-
+contracts/contract_099.sol,Slither,"Osiris, Oyente",-,-,-,-,-,-,-
+contracts/contract_100.sol,Slither,"Osiris, Oyente",-,-,-,-,-,-,-
+contracts/contract_101.sol,-,-,-,Mythril,-,-,-,-,-
+contracts/contract_102.sol,"Mythril, Osiris, Slither","Mythril, Osiris",Mythril,Mythril,-,-,Slither,-,-
+contracts/contract_103.sol,Slither,"Osiris, Oyente",Mythril,-,-,-,-,Mythril,-
+contracts/contract_104.sol,"Mythril, Osiris, Slither","Osiris, Oyente",-,-,-,-,Slither,"Mythril, Slither",-
+contracts/contract_105.sol,Slither,Oyente,Mythril,-,-,-,Slither,-,-
+contracts/contract_106.sol,"Mythril, Slither",Oyente,-,Mythril,-,-,-,"Mythril, Oyente",-
+contracts/contract_107.sol,"Mythril, Slither",-,-,-,-,-,Slither,-,-
+contracts/contract_108.sol,"Mythril, Slither",Oyente,-,-,-,-,-,-,-
+contracts/contract_109.sol,Mythril,"Osiris, Oyente",-,-,-,-,-,-,-
+contracts/contract_110.sol,Slither,"Osiris, Oyente",-,-,-,-,-,-,-
+contracts/contract_111.sol,Mythril,-,-,-,-,-,-,-,-
+contracts/contract_112.sol,"Mythril, Slither","Mythril, Osiris, Oyente",-,-,-,-,Slither,-,-
+contracts/contract_113.sol,Slither,-,-,-,-,-,-,"Mythril, Slither",Mythril
+contracts/contract_114.sol,"Mythril, Slither","Osiris, Oyente",-,Mythril,-,-,Slither,"Mythril, Oyente, Slither",-
+contracts/contract_115.sol,"Mythril, Slither",Oyente,-,-,-,-,-,-,-
+contracts/contract_116.sol,Slither,"Osiris, Oyente",-,-,-,-,-,"Mythril, Oyente, Slither",-
+contracts/contract_117.sol,Slither,Oyente,Mythril,Mythril,-,-,-,"Mythril, Slither",-
+contracts/contract_118.sol,Slither,Oyente,-,-,-,-,-,"Mythril, Oyente, Slither",-
+contracts/contract_119.sol,Slither,-,-,-,-,-,-,"Mythril, Slither",-
+contracts/contract_120.sol,"Mythril, Slither","Osiris, Oyente",Mythril,-,-,-,Slither,-,-
+contracts/contract_121.sol,"Mythril, Slither",Oyente,Mythril,Mythril,-,-,-,-,-
+contracts/contract_122.sol,"Mythril, Slither",Oyente,-,-,-,-,-,-,-
+contracts/contract_123.sol,-,-,Mythril,Mythril,-,-,-,-,-
+contracts/contract_124.sol,"Mythril, Slither","Mythril, Oyente",-,Mythril,-,-,-,Mythril,-
+contracts/contract_125.sol,Slither,-,-,-,-,-,-,-,Mythril
+contracts/contract_126.sol,"Mythril, Slither",-,-,Mythril,Oyente,-,-,-,-
+contracts/contract_127.sol,Slither,"Osiris, Oyente",-,-,-,-,-,"Mythril, Oyente, Slither",-
+contracts/contract_128.sol,Slither,Oyente,Mythril,Mythril,-,-,-,-,-
+contracts/contract_129.sol,"Mythril, Slither",Oyente,-,-,-,-,-,"Mythril, Slither",-
+contracts/contract_131.sol,Osiris,-,-,-,-,-,-,-,-
+contracts/contract_132.sol,"Mythril, Osiris, Slither",Oyente,Mythril,Mythril,-,-,-,"Mythril, Oyente, Slither",-
+contracts/contract_133.sol,"Mythril, Slither",Oyente,-,-,-,-,-,-,-
+contracts/contract_134.sol,Slither,-,-,-,Osiris,-,-,Slither,-
+contracts/contract_135.sol,"Mythril, Slither","Osiris, Oyente",Mythril,-,-,-,Slither,"Mythril, Slither",-
+contracts/contract_136.sol,"Mythril, Slither",Oyente,-,-,-,-,-,Mythril,-
+contracts/contract_137.sol,"Mythril, Slither",Oyente,-,-,-,-,-,-,-
+contracts/contract_139.sol,Osiris,-,-,-,-,-,-,-,Slither
+contracts/contract_140.sol,Slither,"Mythril, Osiris, Oyente",-,-,-,-,Slither,"Mythril, Slither",-
+contracts/contract_141.sol,Mythril,Oyente,Mythril,Mythril,-,-,-,-,-
+contracts/contract_142.sol,-,-,-,-,-,-,-,"Mythril, Slither",-
+contracts/contract_143.sol,Slither,Oyente,-,-,-,-,Slither,-,-
+contracts/contract_145.sol,Slither,"Mythril, Oyente",-,-,Osiris,-,Slither,"Mythril, Oyente, Slither",-
+contracts/contract_146.sol,Osiris,-,-,-,-,-,-,-,Slither
+contracts/contract_147.sol,Mythril,-,Mythril,-,-,-,-,"Mythril, Slither",-
+contracts/contract_148.sol,"Mythril, Slither","Osiris, Oyente",-,-,-,-,-,Mythril,-
+contracts/contract_149.sol,"Mythril, Osiris, Slither","Mythril, Oyente",-,-,Oyente,-,"Mythril, Slither","Mythril, Slither",-
+contracts/contract_150.sol,-,Osiris,-,-,-,-,-,-,-
+contracts/contract_151.sol,"Mythril, Slither",-,-,-,-,-,-,-,-
+contracts/contract_152.sol,"Mythril, Slither",-,-,-,-,-,-,"Mythril, Slither",-
+contracts/contract_154.sol,-,Oyente,-,-,-,-,-,-,Slither
+contracts/contract_155.sol,"Mythril, Slither",-,Mythril,Mythril,-,-,Slither,-,-
+contracts/contract_156.sol,Mythril,-,Mythril,-,-,-,-,-,-
+contracts/contract_157.sol,Slither,"Mythril, Osiris, Oyente",-,-,-,-,-,-,-
+contracts/contract_158.sol,-,-,-,-,-,Mythril,-,-,-
+contracts/contract_159.sol,"Mythril, Slither","Osiris, Oyente",Mythril,-,-,-,"Mythril, Slither",Mythril,-
+contracts/contract_160.sol,-,"Osiris, Oyente",-,-,-,-,-,"Mythril, Slither",-
+contracts/contract_161.sol,"Mythril, Slither","Osiris, Oyente",-,-,-,-,-,-,-
+contracts/contract_162.sol,Mythril,"Osiris, Oyente",-,-,-,-,-,Mythril,-
+contracts/contract_163.sol,-,-,-,-,-,-,-,Slither,-
+contracts/contract_164.sol,Slither,"Osiris, Oyente",-,Mythril,-,-,-,"Mythril, Oyente, Slither",-
+contracts/contract_165.sol,Mythril,-,-,-,-,-,-,-,-
+contracts/contract_166.sol,"Mythril, Slither",Oyente,-,-,-,-,-,-,-
+contracts/contract_167.sol,Slither,-,-,-,"Osiris, Oyente",-,Slither,"Mythril, Slither",Mythril
+contracts/contract_169.sol,Slither,"Osiris, Oyente",-,-,-,-,-,"Oyente, Slither",-
+contracts/contract_170.sol,Slither,"Osiris, Oyente",-,-,-,-,-,Mythril,-
+contracts/contract_171.sol,-,"Osiris, Oyente",-,-,-,-,-,Slither,-
+contracts/contract_172.sol,-,-,-,-,-,-,-,-,Slither
+contracts/contract_173.sol,Slither,"Osiris, Oyente",-,-,-,-,Slither,"Mythril, Oyente, Slither",-
+contracts/contract_174.sol,"Mythril, Slither",-,-,-,-,-,-,Mythril,-
+contracts/contract_175.sol,Mythril,Oyente,-,-,-,-,-,-,-
+contracts/contract_177.sol,Osiris,-,-,-,-,-,-,-,Slither
+contracts/contract_179.sol,-,"Osiris, Oyente",-,Mythril,-,-,-,-,-
+contracts/contract_180.sol,"Mythril, Slither",Oyente,-,-,-,-,-,"Mythril, Slither",-
+contracts/contract_181.sol,"Mythril, Slither","Osiris, Oyente",-,-,-,-,-,-,Slither
+contracts/contract_182.sol,"Mythril, Slither",Oyente,-,-,-,-,Mythril,"Mythril, Slither",-
+contracts/contract_183.sol,Slither,"Osiris, Oyente",-,-,-,-,-,-,-
+contracts/contract_184.sol,"Mythril, Slither","Osiris, Oyente",Mythril,Mythril,-,-,Slither,"Mythril, Oyente, Slither",-
+contracts/contract_185.sol,Mythril,Oyente,-,-,-,-,-,"Mythril, Slither",-
+contracts/contract_186.sol,Slither,-,-,-,-,-,-,Slither,-
+contracts/contract_187.sol,"Mythril, Slither","Mythril, Osiris",-,Mythril,-,-,Slither,"Mythril, Slither",-
+contracts/contract_188.sol,Slither,-,-,-,-,-,-,Slither,-
+contracts/contract_189.sol,"Mythril, Slither",Oyente,-,-,-,-,-,-,-
+contracts/contract_190.sol,Slither,"Osiris, Oyente",-,-,-,-,-,-,-
+contracts/contract_191.sol,-,Oyente,-,-,-,-,-,-,-
+contracts/contract_192.sol,Slither,"Osiris, Oyente",-,-,-,-,-,-,-
+contracts/contract_193.sol,"Mythril, Slither",-,-,-,-,-,-,-,-
+contracts/contract_194.sol,-,Oyente,-,-,-,-,-,-,-
+contracts/contract_195.sol,Slither,Osiris,-,Mythril,-,-,-,"Mythril, Slither",-
+contracts/contract_196.sol,Slither,-,Mythril,-,-,-,Slither,-,-
+contracts/contract_197.sol,Slither,Osiris,-,-,Osiris,-,-,Slither,-
+contracts/contract_198.sol,"Mythril, Osiris, Slither",Oyente,-,-,-,-,-,-,-
+contracts/contract_199.sol,-,Oyente,-,-,-,-,Oyente,-,-
+contracts/contract_200.sol,Slither,Oyente,-,-,-,-,-,"Mythril, Oyente, Slither",-
