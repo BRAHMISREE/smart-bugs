@@ -3,8 +3,8 @@ results folders
 batch02-
 
 mythril-
-obf-results/mythril-0.24.8/20260322_2156
-og-results/mythril-0.24.8/20260328_1931
+obf-results/mythril-0.24.8/20260322_2156 || 20260405_1726
+og-results/mythril-0.24.8/20260328_1931 
 
 slither:
 obf-results/slither-0.11.3/20260322_2150
@@ -34,7 +34,7 @@ obf-20260329_2106
 
 mythril-
 og-20260329_2126
-obf-20260329_2109
+obf-20260329_2109 || 20260405_1725
 
 
 
